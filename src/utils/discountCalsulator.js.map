@@ -1,0 +1,1 @@
+{"version":3,"file":"discountCalsulator.js","sourceRoot":"","sources":["discountCalsulator.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,iBAAiB,CAAC,KAAa,EAAE,kBAA0B;IACvE,IAAI,KAAK,GAAG,CAAC,IAAI,kBAAkB,GAAG,CAAC;QAAE,OAAO,CAAC,CAAC;IAClD,OAAO,CAAC,KAAK,GAAG,kBAAkB,CAAC,GAAG,GAAG,CAAC;AAC9C,CAAC"}
